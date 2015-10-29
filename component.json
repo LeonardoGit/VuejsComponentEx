@@ -1,0 +1,24 @@
+{
+  "name": "vue-component-example",
+  "main": "src/main.js",
+  "scripts": [
+    "src/main.js",
+    "src/directives/flip.js",
+    "src/filters/reverse.js"
+  ],
+  "styles": [
+    "src/styles/main.css"
+  ],
+  "paths": [
+    "components",
+    "src/components"
+  ],
+  "local": [
+    "a",
+    "b"
+  ],
+  "dependencies": {
+    "yyx990803/vue": "*"
+  },
+  "remotes": []
+}
